@@ -1,7 +1,10 @@
 ---
-title: 홈
+layout: default
+title: Home
 ---
 
-# 환영합니다
+# Sun & Moon Web Pages
 
 사이트 제목은 {{ site.title }} 입니다
+- /about/
+tact/
