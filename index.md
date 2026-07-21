@@ -6,8 +6,7 @@ nav-width  : 320px
 css-header : background:linear-gradient(to bottom right, #06c, #fc0); color:white
 menu       :
    Home    : ?
-   Github  : https://github.com/casualwriter/casual-markdown-blog
-   Dark    : javascript:darkmode()
+   Github  : https://github.com/qLeica/qLeica.github.io
    About   : ?page=about.md
 ------------------------------------------------------------------
 <style comment="additional style">
