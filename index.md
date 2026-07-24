@@ -7,4 +7,5 @@ title: Home
 
 사이트 제목은 {{ site.title }} 입니다
 - /about/
+- /page/
 tact/
