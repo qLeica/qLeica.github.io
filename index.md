@@ -13,7 +13,7 @@ title: Home
 <script>
 function updateTime() {
   document.getElementById('seoul').textContent =
-    '서울: ' + new Date().toLocaleString('ko-KR', {
+    'Seoul: ' + new Date().toLocaleString('ko-KR', {
       timeZone: 'Asia/Seoul'
     });
 
