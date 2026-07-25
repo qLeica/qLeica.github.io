@@ -7,5 +7,22 @@ title: Home
 
 ## 시간 정보
 
-- 현재 시간 (KST): $(TZ=Asia/Seoul date '+%Y-%m-%d %H:%M:%S')
-- 뉴욕 시간 (America/New_York): $(TZ=America/New_York date '+%Y-%m-%d %H:%M:%S')
+<div id="seoul"></div>
+<div id="newyork"></div>
+
+<script>
+function updateTime() {
+  document.getElementById('seoul').textContent =
+    '서울: ' + new Date().toLocaleString('ko-KR', {
+      timeZone: 'Asia/Seoul'
+    });
+
+  document.getElementById('newyork').textContent =
+    'New York: ' + new Date().toLocaleString('en-US', {
+      timeZone: 'America/New_York'
+    });
+}
+
+updateTime();
+setInterval(updateTime, 1000);
+</script>
