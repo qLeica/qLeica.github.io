@@ -1,3 +1,8 @@
+---
+layout: default
+title: Hero Section
+permalink: /Hero_Section/
+---
 # Modern Business Solutions
 
 ### 미래를 위한 디지털 혁신
