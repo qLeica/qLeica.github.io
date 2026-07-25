@@ -2,6 +2,7 @@
 layout: default
 title: Call To Action
 permalink: /CTA/
+weight: 3
 ---
 
 # Ready to Start?
