@@ -3,6 +3,7 @@ layout: default
 title: Page
 permalink: /page/
 weight: 1
+draft: false
 ---
 <div align="center">
 
