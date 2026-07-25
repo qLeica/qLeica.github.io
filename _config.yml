@@ -3,5 +3,14 @@ description: Sun & Moon GitHub Pages
 theme: minima
 markdown: kramdown
 
+header_pages:
+- index.md
+- page.md
+- markdwon.md
+- CTA.md
+- Hero_Section.md
+- Our_Impact.md
+- README.md
+- about.md
 plugins:
 - jekyll-feed
