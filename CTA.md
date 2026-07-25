@@ -8,4 +8,4 @@ permalink: /CTA/
 
 지금 바로 비즈니스를 혁신하세요.
 
-**📧 contact@company.com**
+**📧 qLeica97@icloud.com**
