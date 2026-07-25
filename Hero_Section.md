@@ -2,6 +2,7 @@
 layout: default
 title: Hero Section
 permalink: /Hero_Section/
+weight: 4
 ---
 
 # Modern Business Solutions
