@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: Page
 permalink: /page/
 ---
 <div align="center">
